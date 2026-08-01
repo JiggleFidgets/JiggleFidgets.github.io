@@ -1,3 +1,5 @@
+title: "Jiggle Fidgets"
+
 Privacy Policy
 
 Effective Date: August 1, 2026
