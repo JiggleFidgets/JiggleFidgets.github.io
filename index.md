@@ -1,4 +1,6 @@
+---
 title: "Jiggle Fidgets"
+---
 
 Privacy Policy
 
